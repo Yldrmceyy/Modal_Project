@@ -19,9 +19,10 @@ Bu basit proje, web sayfasında bulunan düğmeler aracılığıyla modal pencer
 3. Düğmelere tıklayarak modal pencerelerini açın ve kapatın.
 4. Modal içeriğini inceleyerek modal pencereyi kapatabilirsiniz.
 
-## Gereksinimler
 
-Bu proje çalıştırılmak için herhangi bir özel gereksinim içermez. Bir web tarayıcısı kullanarak çalıştırılabilir.
+
+## Ekran Görüntüleri
+![Model_Project](https://github.com/Yldrmceyy/Modal_Project/assets/106755050/d637363a-1573-4110-ac7f-574271967f05)
 
 ## Katkıda Bulunma
 
